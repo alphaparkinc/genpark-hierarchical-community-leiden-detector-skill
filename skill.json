@@ -1,0 +1,15 @@
+{
+  "name": "genpark-hierarchical-community-leiden-detector-skill",
+  "version": "1.0.0",
+  "description": "Fast modularity community detection algorithm partitioning memory graphs into coherent thematic subgraphs.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "community-detection",
+    "modularity-optimization",
+    "graph-partitioning",
+    "memory-clustering",
+    "leiden-louvain"
+  ]
+}
